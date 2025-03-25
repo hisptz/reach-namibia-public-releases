@@ -6,7 +6,7 @@
 - [Configurations](#configuration)
 - [Running the application](#run-app)
 - [Build and deployment](#build-deploy)
-- 
+
 ## Pre-requisites <a name="pre-requisites"></a>
 
 This application was developed with [React](https://reactjs.org/) using the [DHIS2 Application Platform](https://platform.dhis2.nu/). The source code was written using [Typescript](https://www.typescriptlang.org/) with [yarn]() as the package manager.
